@@ -2,9 +2,12 @@
   "name": "meadowlark",
   "version": "1.0.0",
   "description": "Travel agency",
+  "engines": {
+    "node": "6.10.2"
+  },
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "start": "node app.js"
   },
   "author": "Littie",
   "license": "ISC",
